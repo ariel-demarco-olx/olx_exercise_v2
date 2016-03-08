@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__36-[HomeViewController searchProducts]_block_invoke:HomeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mappingResult.array">
+            </PersistentString>
+            <PersistentString
+               value = "detailController.products">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProductDetailViewController tableView:numberOfRowsInSection:]:ProductDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.products.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
